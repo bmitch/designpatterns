@@ -1,0 +1,16 @@
+{
+    "name": "bmitch/designpatterns",
+    "description": "Design Patterns in PHP",
+    "authors": [
+        {
+            "name": "Bill Mitchell",
+            "email": "wkmitch@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Bmitch\\": "src/"
+        }
+    }
+}
